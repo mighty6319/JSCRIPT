@@ -11,7 +11,7 @@ it contains Project folder ,Flowchart related to the project and Lesson wise top
 - Playlist management
 - Private bank account
 - student management / result generator
-
+- Password generator
 ```
 - lesson 1
 ```
